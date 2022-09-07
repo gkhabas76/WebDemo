@@ -82,7 +82,7 @@ pre {
   height: 400px;
   background-color: var(--primary-color);
   color: #fff;
-  position: relative;
+  position: absolute;
 }
 
 .showcase h1 {
